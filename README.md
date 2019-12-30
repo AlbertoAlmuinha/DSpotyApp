@@ -20,7 +20,7 @@ DSpoty App has 3 main panels:
   - Albums
   - Tracks
 
-![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/artist_box.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/app_panels.JPG)<!-- -->
 
 ## Messages and Notifications
 
@@ -28,7 +28,7 @@ You can see two symbols in the app header, messages and notifications.
 Here you can get different links: to this App Tutorial, Author Github,
 Author LinkdIn..
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/symbols.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/symbols.JPG)<!-- -->
 
 ## Panel 1: Artist Information
 
@@ -48,13 +48,13 @@ If you want to pick an artist:
 
 1.  Type the artist name in the box and click the ‘Update’ button.
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/artist_box.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/artist_box.JPG)<!-- -->
 
 2.  Wait until all the panel is displayed. This step is the most
     computational expensive and can take about one minute. The loaded
     panel should looks like this:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/artist_panel.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/artist_panel.JPG)<!-- -->
 
 In this panel you can see six valueBox with some artist information, a
 gif with the top 20 related artist and an **artist image linked to the
@@ -66,12 +66,12 @@ image, you will be redirected to Spotify artist web.
 Once you have loaded the artist information, in the albums panel, all
 the artist albums will be shown in the box:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/album_box.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/album_box.JPG)<!-- -->
 
 You can pick one of them and then click the ‘Update’ botton. The result
 panel must be something similar:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/album_panel.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/album_panel.JPG)<!-- -->
 
 **You can click the album image to be redirected to the album Spotify
 web.**
@@ -81,14 +81,14 @@ web.**
 Once you have loaded the artist information, in the tracks panel, all
 the artist tracks will be shown in the box:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/track_box.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/track_box.JPG)<!-- -->
 
 The next steps are the following:
 
   - Pick one of the artist tracks in the box and click the ‘Pick a Song’
     botton. The result panel should be like this:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/track_1.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/track_1.JPG)<!-- -->
 
 You can see an audio gadget to listen the song and 3 value boxs (the
 last one redirects you to the song Spotify web).
@@ -96,7 +96,7 @@ last one redirects you to the song Spotify web).
   - Click the ‘Search Similar Songs’ button. The result panel should be
     like this:
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/track_2.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/track_2.JPG)<!-- -->
 
 You can see a table with the information of the similar songs and also
 the ‘similar songs box’ will have choices to pick.
@@ -104,7 +104,7 @@ the ‘similar songs box’ will have choices to pick.
   - Finally, you can pick a similar song in the box and click the ‘Pick
     a song’ button under the box.
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/track_3.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/track_3.JPG)<!-- -->
 
 You can see an image that redirects you to spotify song web and an audio
 gadget. If you want to pick anoter artist information, return to
