@@ -20,7 +20,7 @@ DSpoty App has 3 main panels:
   - Albums
   - Tracks
 
-![](C:/Users/albgonzal/Documents/Desarrollo%20R/DSpotyDashboard/Documentation/Images/app_panels.JPG)<!-- -->
+![](https://github.com/AlbertoAlmuinha/DSpotyApp/blob/master/Images/artist_box.JPG)<!-- -->
 
 ## Messages and Notifications
 
